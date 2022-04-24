@@ -1,0 +1,60 @@
+*{
+    overflow-x: hidden;
+}
+.nav-top{
+    background: #8b00fd;
+}
+
+nav{
+    background: #8b00fd;
+}
+
+#hero{
+    width: 100vw;
+    height: 100vh;
+    background: #8b00fd;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.brand-image{
+    width: 150px;
+    height: 150px;
+    border-radius: 1000px;
+    border: 3px solid #ffbb00;
+}
+
+#about{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#portfolio{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #e0e0e0;
+}
+#contact{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#footer{
+    width: 100vw;
+    height: 10vh;
+    background: #8b00fd;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
